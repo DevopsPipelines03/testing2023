@@ -8,6 +8,9 @@
 	 
   },
   "keywords": [],
+	"repository": {
+    "url": "https://github.com/DevopsPipelines03/testing2023.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
